@@ -1,6 +1,6 @@
 # FLAC-to-AIFF
 
-Converts all FLAC files to AIFF format in specified folder.
+Converts all FLAC files to AIFF format (including ID3v2 tags) in specified folder.
 
 Script assumes that FFMPEG binaries are in C:\Windows.
 
